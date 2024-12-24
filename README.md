@@ -80,5 +80,5 @@ This project is licensed under the MIT License.
 #### Contact 📬  
 Questions or suggestions? Feel free to reach out!  
 
-GitHub: [Your GitHub Profile Link]  
-Twitter: [Your Twitter Profile Link]  
+GitHub: shivam-pawar-7217 
+Twitter: @pawar_shiv59037
