@@ -43,7 +43,7 @@ npm start
 - **Backend**: Node.js, Express.js  
 - **Frontend**: React  
 - **Database**: MongoDB  
-- **Payment APIs**: Paytm API, Razorpay  
+- **Payment APIs**: Paytm API, Razorpay . 
 
 ---
 
